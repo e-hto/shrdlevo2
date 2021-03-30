@@ -1,7 +1,7 @@
 [{
 	"id":"1",
 	"conf":[	
-		{"i":"0","blocks":"1","before":"0","after":["1"],"instruction":"add blue"},
+		{"i":"0","blocks":"1","before":"0","after":["1"],"instruction":"Instruction test"},
 		{"i":"1","blocks":"1","before":"00","after":["01","10"],"instruction":"add blue"},
 		{"i":"2","blocks":"12","before":"01","after":["11","10_10","01_01"],"instruction":"add blue"},
 		{"i":"3","blocks":"11","before":"00","after":["11","01_01","10_10"],"instruction":"add blue blue"},
